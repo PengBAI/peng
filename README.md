@@ -1,5 +1,6 @@
 ## Peng BAI
-a Software Engineer
+
+<center>a Software Engineer</center>
 
 ### Markdown
 
