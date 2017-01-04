@@ -3,15 +3,15 @@
 <center>DevOps, a Software Engineer at Worldline</center>
 <center>Blois, France</center>
 
-----
+------
 
 Profile Tags
 ----
-**Expertise**
+*Expertise*
 
 ![expertise](./img/expertise.PNG)
 
-**Hobbies**
+*Hobbies*
 
 ![hobbies](./img/hobbies.PNG)
 
