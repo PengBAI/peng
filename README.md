@@ -5,8 +5,8 @@
 
 ------
 
-#### Profile Tags
-----
+<center> <h3>Profile Tags</h3> </center>
+
 *Expertise*
 
 ![expertise](./img/expertise.PNG)
@@ -15,14 +15,14 @@
 
 ![hobbies](./img/hobbies.PNG)
 
-#### Experiences
-----
+<center> <h3>Experiences</h3> </center>
+
 **equensWorldline**  -  Since  October 2015  
 
 **Worldline**  -  From  May 2015  to September 2015 
 
-#### Education
-----
+<center> <h3>Educations</h3> </center>
+
 **Ingénieur d'Informatique**  -  From  September 2012  to May 2015
 
 Polytech Tours 
