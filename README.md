@@ -5,7 +5,7 @@
 
 ------
 
-Profile Tags
+#### Profile Tags
 ----
 *Expertise*
 
@@ -15,13 +15,13 @@ Profile Tags
 
 ![hobbies](./img/hobbies.PNG)
 
-Experiences
+#### Experiences
 ----
 **equensWorldline**  -  Since  October 2015  
 
 **Worldline**  -  From  May 2015  to September 2015 
 
-Education
+#### Education
 ----
 **Ingénieur d'Informatique**  -  From  September 2012  to May 2015
 
