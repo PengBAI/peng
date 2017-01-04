@@ -5,6 +5,16 @@
 
 ----
 
+Profile Tags
+----
+**Expertise**
+
+![expertise](./img/expertise.PNG)
+
+**Hobbies**
+
+![hobbies](./img/hobbies.PNG)
+
 Experiences
 ----
 **equensWorldline**  -  Since  October 2015  
