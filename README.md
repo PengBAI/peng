@@ -1,6 +1,6 @@
 <center> <h1>Peng BAI</h1> </center>
 
-<center>a Software Engineer</center>
+<center>DevOps, a Software Engineer</center>
 
 ----
 Blois, France
