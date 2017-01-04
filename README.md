@@ -23,9 +23,7 @@
 
 <center> <h3>Educations</h3> </center>
 
-**CS Master & Engineer Degree**  -  From  September 2012  to May 2015
-
-Polytech Tours 
+**CS Master & Engineer Degree**  -  From  September 2012  to May 2015  - Polytech Tours 
 
 ----
 
