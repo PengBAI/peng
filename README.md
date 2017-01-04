@@ -23,7 +23,7 @@
 
 <center> <h3>Educations</h3> </center>
 
-**Ingénieur d'Informatique**  -  From  September 2012  to May 2015
+**Master on CS & Engineer Degree**  -  From  September 2012  to May 2015
 
 Polytech Tours 
 
