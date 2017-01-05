@@ -17,7 +17,7 @@ Internship as Software Engineer
 
 **Worldline** - From Juin 2014 to August 2014
 
-Intership as Software Engineer
+Internship as Software Engineer
 
 
 <center> <h2>Educations</h2> </center>
