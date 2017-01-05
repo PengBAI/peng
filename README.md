@@ -21,13 +21,10 @@ Internship as Software Engineer
 
 <center> <h3>Profile Tags</h3> </center>
 
-*Languages* 
-
-~~~ 
+#### Languages
  Français  English  Chinese 
-~~~
 
-*Expertise*
+#### Expertise
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;border-color:#ccc;}
 .tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-color:#ccc;color:#333;background-color:#fff;border-top-width:1px;border-bottom-width:1px;}
@@ -148,12 +145,9 @@ Internship as Software Engineer
 </table>
 
 
-*Hobbies*
-
-~~~~
+#### Hobbies
  Running  Trail  Marathon 
-~~~~
-
+ 
 ----
 
 [![Linkedin](./img/linkedin.PNG)](https://www.linkedin.com/in/baipeng)
