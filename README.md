@@ -36,11 +36,24 @@ Internship as Software Engineer
 
 *Expertise*
 
-![expertise](./img/expertise.PNG)
+<table>
+<tbody><td>Agile/Scrum</td><td>shell/Bash</td><td>CI/CD</td>
+</tbody>
+</table>
+
 
 *Hobbies*
 
-![hobbies](./img/hobbies.PNG)
+<table>
+<tbody>
+<td>Running
+</td>
+<td>Trail
+</td>
+<td>Marathon
+</td>
+</tbody>
+</table>
 
 ----
 
