@@ -21,6 +21,19 @@ Internship as Software Engineer
 
 <center> <h3>Profile Tags</h3> </center>
 
+*Languages*
+
+<table>
+<tbody>
+<td>Français
+</td>
+<td>English
+</td>
+<td>Chinese
+</td>
+</tbody>
+</table>
+
 *Expertise*
 
 ![expertise](./img/expertise.PNG)
