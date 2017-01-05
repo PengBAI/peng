@@ -36,13 +36,13 @@ Internship as Software Engineer
 .tg .tg-qiou{font-weight:bold;font-size:12px;font-family:"Comic Sans MS", cursive, sans-serif !important;;text-align:center;vertical-align:top}
 .tg .tg-tkbx{font-size:12px;font-family:"Comic Sans MS", cursive, sans-serif !important;;background-color:#bbdaff;vertical-align:top}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 614px">
+<table class="tg" style="undefined;table-layout: fixed; width: 615px">
 <colgroup>
 <col style="width: 190px">
 <col style="width: 160px">
 <col style="width: 54px">
 <col style="width: 157px">
-<col style="width: 53px">
+<col style="width: 54px">
 </colgroup>
   <tr>
     <th class="tg-qiou"></th>
