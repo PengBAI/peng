@@ -154,4 +154,4 @@ Internship as Software Engineer
 [![Github](./img/github.PNG)](https://github.com/PengBAI)
 [![Dockerhub](./img/docker.PNG)](https://hub.docker.com/u/pengbai/)
 
-update at 2017-01-05
+Page updated on 2017-01-05
