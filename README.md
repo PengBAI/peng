@@ -19,7 +19,7 @@
 
 **equensWorldline**  -  Since  October 2015  
 
-Software Engineer & Technical reference Docker
+Software Engineer & Technical referent Docker
 
 **Worldline**  -  From  May 2015  to September 2015 
 
