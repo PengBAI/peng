@@ -19,7 +19,11 @@
 
 **equensWorldline**  -  Since  October 2015  
 
+Software Engineer & Technical reference Docker
+
 **Worldline**  -  From  May 2015  to September 2015 
+
+Internship as Software Engineer
 
 <center> <h3>Educations</h3> </center>
 
