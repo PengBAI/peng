@@ -22,7 +22,6 @@ Internship as Software Engineer
 <center> <h3>Profile Tags</h3> </center>
 
 *Languages*
-
 <table>
 <tbody>
 <td>Français
@@ -34,8 +33,8 @@ Internship as Software Engineer
 </tbody>
 </table>
 
-*Expertise*
 
+*Expertise*
 <table>
 <tbody><td>Agile/Scrum</td><td>shell/Bash</td><td>CI/CD</td>
 </tbody>
@@ -43,7 +42,6 @@ Internship as Software Engineer
 
 
 *Hobbies*
-
 <table>
 <tbody>
 <td>Running
