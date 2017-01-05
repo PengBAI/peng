@@ -36,7 +36,12 @@ Internship as Software Engineer
 
 *Expertise*
 <table>
-<tbody><td>Agile/Scrum</td><td>shell/Bash</td><td>CI/CD</td>
+<tbody>
+<tr><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Language/Database</td><td><tr>Java</tr></td><td><tr>3</tr></td><td><tr>Oracle, Mysql</tr></td><td><tr>2</tr></td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td></tr>
 </tbody>
 </table>
 
