@@ -35,15 +35,11 @@ Internship as Software Engineer
 
 
 *Expertise*
-<table>
-<tbody>
-<tr><td></td><td></td><td></td><td></td><td></td></tr>
-<tr><td>Language/Database</td><td><tr>Java</tr></td><td><tr>3</tr></td><td><tr>Oracle, Mysql</tr></td><td><tr>2</tr></td></tr>
-<tr><td></td><td></td><td></td><td></td><td></td></tr>
-<tr><td></td><td></td><td></td><td></td><td></td></tr>
-<tr><td></td><td></td><td></td><td></td><td></td></tr>
-</tbody>
-</table>
+| Tables   |      Are      |  Cool |
+|----------|:-------------:|------:|
+| col 1 is |  left-aligned | $1600 |
+| col 2 is |    centered   |   $12 |
+| col 3 is | right-aligned |    $1 |
 
 
 *Hobbies*
