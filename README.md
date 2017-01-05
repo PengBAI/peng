@@ -23,8 +23,9 @@ Internship as Software Engineer
 
 *Languages*
 
-| Français | English | Chinese |
-
+~~~~
+ Français  English  Chinese 
+~~~~
 
 *Expertise*
 
@@ -37,7 +38,9 @@ Internship as Software Engineer
 
 *Hobbies*
 
-| Running | Trail | Marathon |
+~~~~
+ Running  Trail  Marathon 
+~~~~
 
 ----
 
