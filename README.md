@@ -5,7 +5,7 @@
 
 ------
 
-<center> <h3>Experiences</h3> </center>
+<center> <h2>Experiences</h2> </center>
 
 **equensWorldline**  -  Since  October 2015  
 
@@ -15,11 +15,11 @@ Software Engineer & Technical referent Docker
 
 Internship as Software Engineer
 
-<center> <h3>Educations</h3> </center>
+<center> <h2>Educations</h2> </center>
 
 **CS Master & Engineer Degree**  -  From  September 2012  to May 2015  - Polytech Tours 
 
-<center> <h3>Profile Tags</h3> </center>
+<center> <h2>Profile Tags</h2> </center>
 
 #### Languages
  Français,  English,  Chinese 
