@@ -5,16 +5,6 @@
 
 ------
 
-<center> <h3>Profile Tags</h3> </center>
-
-*Expertise*
-
-![expertise](./img/expertise.PNG)
-
-*Hobbies*
-
-![hobbies](./img/hobbies.PNG)
-
 <center> <h3>Experiences</h3> </center>
 
 **equensWorldline**  -  Since  October 2015  
@@ -28,6 +18,16 @@ Internship as Software Engineer
 <center> <h3>Educations</h3> </center>
 
 **CS Master & Engineer Degree**  -  From  September 2012  to May 2015  - Polytech Tours 
+
+<center> <h3>Profile Tags</h3> </center>
+
+*Expertise*
+
+![expertise](./img/expertise.PNG)
+
+*Hobbies*
+
+![hobbies](./img/hobbies.PNG)
 
 ----
 
