@@ -15,9 +15,16 @@ Software Engineer & Technical referent Docker
 
 Internship as Software Engineer
 
+**Worldline** - From Juin 2014 to August 2014
+
+Intership as Software Engineer
+
+
 <center> <h2>Educations</h2> </center>
 
-**CS Master & Engineer Degree**  -  From  September 2012  to May 2015  - Polytech Tours 
+**CS Master & Engineer Degree**  -  From  September 2012  to May 2015  - Polytech Tours
+
+**Bachelor on Telecommunication Technology**  -  From Sept 2008 to Juin 2012 - University of Science & Technology Beijing
 
 <center> <h2>Profile Tags</h2> </center>
 
