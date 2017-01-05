@@ -22,16 +22,8 @@ Internship as Software Engineer
 <center> <h3>Profile Tags</h3> </center>
 
 *Languages*
-<table>
-<tbody>
-<td>Français
-</td>
-<td>English
-</td>
-<td>Chinese
-</td>
-</tbody>
-</table>
+
+| Français | English | Chinese |
 
 
 *Expertise*
@@ -44,16 +36,8 @@ Internship as Software Engineer
 
 
 *Hobbies*
-<table>
-<tbody>
-<td>Running
-</td>
-<td>Trail
-</td>
-<td>Marathon
-</td>
-</tbody>
-</table>
+
+| Running | Trail | Marathon |
 
 ----
 
