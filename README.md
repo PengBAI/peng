@@ -22,7 +22,7 @@ Internship as Software Engineer
 <center> <h3>Profile Tags</h3> </center>
 
 #### Languages
- Français  English  Chinese 
+ Français,  English,  Chinese 
 
 #### Expertise
 <style type="text/css">
@@ -146,7 +146,7 @@ Internship as Software Engineer
 
 
 #### Hobbies
- Running  Trail  Marathon 
+ Running,  Trail,  Marathon 
  
 ----
 
