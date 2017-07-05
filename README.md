@@ -1,7 +1,7 @@
 <center> <h1>Peng BAI</h1> </center>
 
 <center>DevOps, a Software Engineer at Worldline</center>
-<center>Blois, France</center>
+<center>Lille, France</center>
 
 ------
 
